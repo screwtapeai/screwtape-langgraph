@@ -1,0 +1,2 @@
+# Pinned versions this example was checked with (2026-10-21).
+langgraph==1.2.16
